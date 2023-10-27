@@ -13,3 +13,7 @@
 /dataSources.local.xml
 
 obj
+
+bin
+
+.idea
